@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "35229519736",
+    "project_id": "deliverer-6030c",
+    "storage_bucket": "deliverer-6030c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35229519736:android:e1e43294e0d26bd55d828d",
+        "android_client_info": {
+          "package_name": "com.uber.delivererapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35229519736-ftnfgitbqjt16ae3toq1iuf4poo62jps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX8b9ekAm7JqUJ52CCLfXZ_emlPoB9TY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35229519736-ftnfgitbqjt16ae3toq1iuf4poo62jps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
